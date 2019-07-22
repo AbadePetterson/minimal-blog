@@ -17,7 +17,7 @@ title: minimal
 email: blog@pettersonabade.com
 description: "Este é um minimal blog apenas para mostrar como é o uso dessa ferramenta"
   
-baseurl: "/minimal-blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: minimal_twitter
 github_username:  minimal_github
